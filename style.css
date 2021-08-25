@@ -1,0 +1,42 @@
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: candala;
+}
+
+
+/* team style*/
+
+.team{
+    background-color: black;
+    width: 33.3%;
+    padding: 20px 0px ;
+    float: left;
+    cursor: pointer;
+
+}
+.team img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 2px solid yellow;
+    display: block;
+    margin: auto;
+    
+}
+.team h1{
+    color: blueviolet;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 5px;
+}
+.team p{
+    color: cadetblue;
+    text-align: center;
+    margin-top: 5px;
+   
+    width: 70%;
+    margin: auto;
+}
